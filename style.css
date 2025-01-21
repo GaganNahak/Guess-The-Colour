@@ -42,7 +42,7 @@ body {
     
     border-radius: 20px;
     padding: 5px;
-    box-shadow: inset 15px 15px 10px rgba(0, 0, 0, 0.686), inset -12px -4px 10px rgba(0, 0, 0, 0.918);
+    box-shadow: inset 15px 15px 10px rgba(0, 0, 0, 0.686), inset -12px -4px 10px rgba(0, 0, 0, 0.686);
 }
 
 #subContainer {
